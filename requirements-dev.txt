@@ -1,0 +1,4 @@
+black
+pylint
+
+-r requirements.txt
