@@ -1,4 +1,8 @@
 # powerbi-adt
+
+> **⚠️ ARCHIVED**: This repository is archived and no longer maintained.
+
+> **📝 Blog Post**: Read more at [Querying Azure Digital Twins with PowerBI](https://sealjay.com/querying-azure-digital-twins-with-powerbi/)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/) ![GitHub issues](https://img.shields.io/github/issues/Sealjay-clj/powerbi-adt) ![GitHub](https://img.shields.io/github/license/Sealjay-clj/powerbi-adt) ![GitHub Repo stars](https://img.shields.io/github/stars/Sealjay-clj/powerbi-adt?style=social)
 
 ## Overview
